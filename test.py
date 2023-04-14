@@ -1,2 +1,2 @@
 print("this is test")
-print("thsi is test 2csdfsf")
+print("this is second test")
